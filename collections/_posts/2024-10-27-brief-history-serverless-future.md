@@ -16,7 +16,9 @@ permalink: our-serverless-future
 
 ![][image1]
 
-Just over ten years ago, Tim Wagner walked down a chain-link fenced office corridor towards The Chop[^1]. In his hand he held an Amazon 6-pager. Inside The Chop, already reading and annotating Wagner’s 6-pager, was Andy Jassy, then head of AWS and today CEO of the entire jungle. How stressed was Wagner feeling as he approached the door? This wasn’t a room named for charity and second chances.
+Just over ten years ago, Tim Wagner walked down a chain-link fenced office corridor towards The Chop[^1]. In his hand he held an Amazon 6-pager. Inside The Chop, already reading and annotating Wagner’s 6-pager, was Andy Jassy, then head of AWS and today CEO of the entire jungle. How stressed was Wagner feeling as he approached the door? This wasn’t a room named for charity and second chances. $Q(s_t,a_t)$ and last time
+
+$$Q(s_t,a_t)=\pi(a|s)$$
 
 Within The Chop’s walls, uncomforted by its Comfort Inn color scheme, Tim Wagner pitched. Andy Jassy was Jeff’s first ‘shadow’, having spent 18 months barely leaving the side of a man with a reputation for brilliance, micro-management, and scorn. By business magazine accounts, Jassy’s every superlative you can name. By the biographic facts, he’s a did-it-all-right Harvard grad from New York City’s upper-middle. And though his former reports will remark on his intensity, he was not likely to wither Wagner with a question of Bezos-like contempt — Are you lazy or just incompetent? Jassy was also (in one telling) the collaborative founder of AWS. In those days, all new services were conceived only with Jassy’s backing. Would Wagner’s 6-pager become a birth announcement or obituary?
 
