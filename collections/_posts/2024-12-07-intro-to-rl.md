@@ -1,10 +1,10 @@
 ---
 layout: post
-title: A brief history of our serverless future
-date: 2024-10-27
+title: An introduction to RL
+date: 2024-12-07
 categories: story history serverless aws modal
-summary: Just over ten years ago, Tim Wagner walked down a chain-link fenced office corridor towards The Chop…
-permalink: our-serverless-future
+summary: In valued-based RL, an agent through "trial and error" tries to concurrently learn an oracle and a policy that follows that oracle.
+permalink: intro-to-rl
 ---
 
 <style>
@@ -16,7 +16,7 @@ permalink: our-serverless-future
 
 ![][image1]
 
-Just over ten years ago, Tim Wagner walked down a chain-link fenced office corridor towards The Chop[^1]. In his hand he held an Amazon 6-pager. Inside The Chop, already reading and annotating Wagner’s 6-pager, was Andy Jassy, then head of AWS and today CEO of the entire jungle. How stressed was Wagner feeling as he approached the door? This wasn’t a room named for charity and second chances. $Q(s_t,a_t)$ and last time
+Trying. Just over ten years ago, Tim Wagner walked down a chain-link fenced office corridor towards The Chop[^1]. In his hand he held an Amazon 6-pager. Inside The Chop, already reading and annotating Wagner’s 6-pager, was Andy Jassy, then head of AWS and today CEO of the entire jungle. How stressed was Wagner feeling as he approached the door? This wasn’t a room named for charity and second chances. $Q(s_t,a_t)$ and last time
 
 $$Q(s_t,a_t)=\pi(a|s)$$
 

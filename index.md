@@ -8,10 +8,10 @@ tags: home
 ### This is a blog where I share my perspective of Reinforcement Learning (RL), as well as any research ideas. While RL is a general paradigm and can be applied to a plethora of enviroments, I'll focus on simulated robots as robotics is an application of RL that I find fascinating and there are very realistic simulators easily available. Others Machine Learning (ML) topics might be discussed too.
 <br>
 
-
 <div style="text-align: center;">
     <img src="images/go1/go1.png" alt="Sample Image" width="500" />
 </div>
+
 
 The target audience is people who are already familiar with RL. However, I'll try to approach each discussion from a first principles perspective. 
 <br>
