@@ -3,13 +3,10 @@ layout: default
 tags: home
 ---
 
-# 👋 RL, <br/> Carlos Jerez.
+# From Chaos to Control
 
-### I'm a software engineer with a focus on data & platform engineering.
+### This is a blog where I share my perspective of Reinforcement Learning (RL) as well as any research ideas or results of my own and that I come across. 
 
-### Currently, I help build [Modal](https://modal.com/), a dream cloud platform for data & ML engineers.
-
-<br>
 
 I can usually be found in a programming IDE or reading.
 I'm bullish on, and a big booster of:
