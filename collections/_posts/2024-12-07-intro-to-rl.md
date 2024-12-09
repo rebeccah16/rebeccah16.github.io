@@ -2,7 +2,7 @@
 layout: post
 title: An introduction to RL
 date: 2024-12-07
-categories: story history serverless aws modal
+categories: intro
 summary: In valued-based RL, an agent through "trial and error" tries to concurrently learn an oracle and a policy that follows that oracle.
 permalink: intro-to-rl
 ---
@@ -13,6 +13,12 @@ permalink: intro-to-rl
         padding: 0;
     }
 </style>
+
+But what is RL? According to [Wikipedia](https://en.wikipedia.org/wiki/Reinforcement_learning) RL is a machine learning paradigm that is concerned with how an agent should take action in an environment in order to maximize a reward signal. I like this definition, but I believe two important ingredients are not emphasized enough: 1) RL is generally concerned with long-term cumulative reward, e.g., eating too much ice cream at once might maximize instant reward, but not long-term reward, and 2) the reward should be maximized in expectation, i.e., gambling might maximize reward for a few agents, but in expectation, it is a bad policy.
+
+How does it work then? Essentially, it is trial and error, specifically, an agent tries different actions and tends to gravitate towards the ones that lead high long-term reward. 
+
+
 
 ![][image1]
 
