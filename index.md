@@ -13,6 +13,10 @@ tags: home
 </div>
 
 
+<video width="320" height="240" controls>
+  <source src="vides/test_vid.mp4" type="video/mp4">
+</video>
+
 The target audience is people who are already familiar with RL. However, I'll try to approach each discussion from a first principles perspective. 
 <br>
 
