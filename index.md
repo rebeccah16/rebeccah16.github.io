@@ -12,10 +12,10 @@ tags: home
     <img src="images/go1/go1.png" alt="Sample Image" width="500" />
 </div>
 
-
-<video width="320" height="240" controls>
+<video width="640" height="480" controls style="display: block; margin: auto;">
   <source src="videos/test_vid.mp4" type="video/mp4">
 </video>
+
 
 The target audience is people who are already familiar with RL. However, I'll try to approach each discussion from a first principles perspective. 
 <br>
